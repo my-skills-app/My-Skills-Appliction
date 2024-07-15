@@ -1,0 +1,128 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/background"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#3500A5"
+		android:orientation="vertical">
+		<ImageView
+			android:id="@+id/illustration"
+			android:layout_width="match_parent"
+			android:layout_height="350dp"
+			android:layout_marginTop="30dp"
+			android:layout_marginBottom="10dp"
+			android:padding="60dp"
+			android:src="@drawable/logo1"
+			android:scaleType="centerCrop" />
+		<TextView
+			android:id="@+id/welcome_txt"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="30dp"
+			android:text="Welcome"
+			android:textSize="30sp"
+			android:textStyle="bold"
+			android:textColor="#FFFFFF" />
+		<TextView
+			android:id="@+id/sub_txt_1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="30dp"
+			android:layout_marginTop="15dp"
+			android:layout_marginBottom="5dp"
+			android:text="Manage your expenses"
+			android:textSize="18sp"
+			android:textColor="#FFFFFF" />
+		<TextView
+			android:id="@+id/sub_txt_2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="30dp"
+			android:text="seamlessly and intuitively"
+			android:textSize="20sp"
+			android:textColor="#FFFFFF" />
+		<LinearLayout
+			android:id="@+id/sign_with_google_lin"
+			android:layout_width="match_parent"
+			android:layout_height="50dp"
+			android:layout_marginLeft="30dp"
+			android:layout_marginTop="50dp"
+			android:layout_marginRight="30dp"
+			android:background="#FFFFFF"
+			android:gravity="center_vertical"
+			android:orientation="horizontal">
+			<ImageView
+				android:id="@+id/google_icon"
+				android:layout_width="20dp"
+				android:layout_height="20dp"
+				android:layout_marginLeft="15dp"
+				android:src="@drawable/google_icon"
+				android:scaleType="fitCenter" />
+			<TextView
+				android:id="@+id/google_sign_txt"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginRight="35dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Sign in with Google"
+				android:textSize="14sp"
+				android:textColor="#0041C4"
+				android:layout_weight="1" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/create_account_lin"
+			android:layout_width="match_parent"
+			android:layout_height="50dp"
+			android:layout_marginLeft="30dp"
+			android:layout_marginTop="20dp"
+			android:layout_marginRight="30dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="horizontal">
+			<TextView
+				android:id="@+id/create_txt"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Create an account"
+				android:textSize="14sp"
+				android:textColor="#FFFFFF" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/already_bg"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="bottom"
+			android:orientation="horizontal"
+			android:layout_weight="1">
+			<LinearLayout
+				android:id="@+id/already_linear"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginBottom="20dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal">
+				<TextView
+					android:id="@+id/already_txt"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Already have an account \?"
+					android:textSize="12sp"
+					android:textColor="#FFFFFF"
+					android:alpha="0.7" />
+				<TextView
+					android:id="@+id/sign_in_txt"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="5dp"
+					android:text="Sign in"
+					android:textSize="12sp"
+					android:textColor="#FFFFFF" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

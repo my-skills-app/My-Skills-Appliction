@@ -1,0 +1,124 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<androidx.cardview.widget.CardView
+		android:id="@+id/cardview1"
+		android:layout_width="match_parent"
+		android:layout_height="110dp"
+		android:layout_margin="5dp"
+		android:orientation="vertical"
+		app:cardElevation="2dp"
+		app:cardCornerRadius="20dp">
+		<LinearLayout
+			android:id="@+id/linear7"
+			android:layout_width="match_parent"
+			android:layout_height="110dp"
+			android:padding="3dp"
+			android:background="#FFFFFF"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="horizontal">
+			<androidx.cardview.widget.CardView
+				android:id="@+id/cardview2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_margin="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical"
+				app:cardElevation="0dp"
+				app:cardCornerRadius="18dp">
+				<ImageView
+					android:id="@+id/url"
+					android:focusable="false"
+					android:layout_width="90dp"
+					android:layout_height="100dp"
+					android:src="@drawable/logo1"
+					android:scaleType="centerCrop"
+					android:layout_gravity="center_horizontal|center_vertical" />
+			</androidx.cardview.widget.CardView>
+			<LinearLayout
+				android:id="@+id/linear8"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="5dp"
+				android:orientation="vertical">
+				<TextView
+					android:id="@+id/Title"
+					android:focusable="false"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="8dp"
+					android:paddingTop="3dp"
+					android:paddingRight="8dp"
+					android:paddingBottom="3dp"
+					android:text="Computer Science 4th sem books"
+					android:textSize="16sp"
+					android:textStyle="bold"
+					android:textColor="#000000" />
+				<TextView
+					android:id="@+id/Discrimination"
+					android:focusable="false"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="3dp"
+					android:text="cht education app pdf and book vvi question books chapter !!"
+					android:textSize="12sp"
+					android:textColor="#757575" />
+				<LinearLayout
+					android:id="@+id/linear9"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:gravity="center_vertical"
+					android:orientation="horizontal">
+					<TextView
+						android:id="@+id/textview9"
+						android:focusable="false"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="3dp"
+						android:text="261"
+						android:textSize="11sp"
+						android:textStyle="bold"
+						android:textColor="#F44336" />
+					<TextView
+						android:id="@+id/ul"
+						android:focusable="false"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="3dp"
+						android:text="remembering"
+						android:textSize="11sp"
+						android:textColor="#616161" />
+					<LinearLayout
+						android:id="@+id/linear10"
+						android:layout_width="60dp"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:layout_weight="1" />
+					<LinearLayout
+						android:id="@+id/linear11"
+						android:layout_width="60dp"
+						android:layout_height="30dp"
+						android:layout_marginRight="20dp"
+						android:padding="7dp"
+						android:background="#3500A5"
+						android:gravity="center_horizontal|center_vertical"
+						android:orientation="vertical">
+						<TextView
+							android:id="@+id/textview11"
+							android:focusable="false"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:text="Reading"
+							android:textSize="14sp"
+							android:textStyle="bold"
+							android:textColor="#FFFFFF" />
+					</LinearLayout>
+				</LinearLayout>
+			</LinearLayout>
+		</LinearLayout>
+	</androidx.cardview.widget.CardView>
+</LinearLayout>
