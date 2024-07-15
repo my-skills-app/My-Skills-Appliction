@@ -61,7 +61,7 @@ Streamline your productivity and stay organized with our powerful task managemen
 
 ## Acknowledgements
 
- - [Website (Mobile App)]([https://myskillsapp4thsem.000webhostapp.com/](https://my-skills-app.github.io/My-Skills-Website/))
+ - [Website (Mobile App)](https://my-skills-app.github.io/My-Skills-Website/)
  - [Devloper Profile](https://github.com/aryan6205012057)
  - [(Portfolio)](https://my-skills-app-bucket-1.s3.amazonaws.com/index.html)
 ## Contributing
