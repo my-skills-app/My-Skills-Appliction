@@ -10,11 +10,6 @@ Streamline your productivity and stay organized with our powerful task managemen
 
 - [@vip_aryan_raj](https://www.instagram.com/vip_aryan_raj/)
 
-
-## Screenshots
-
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/polytechnic-acadmy.appspot.com/o/Screenshot%202024-07-15%20at%204.21.38%20PM.png?alt=media&token=cc504c18-cd7a-4622-8381-47be624934ea)
-
 <h3 align="center">I mostly use these Languages and Tools:</h3>
 
 <p align="center"> 
@@ -32,6 +27,11 @@ Streamline your productivity and stay organized with our powerful task managemen
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+## Screenshots
+
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/polytechnic-acadmy.appspot.com/o/Screenshot%202024-07-15%20at%204.21.38%20PM.png?alt=media&token=cc504c18-cd7a-4622-8381-47be624934ea)
+
 
 
 
