@@ -1,8 +1,5 @@
-# My-Skills-Appliction
-(LMS) Learnig Appliction
-
 # My Skills (Mobile appliction)
-
+(LMS) Learnig Appliction
 Streamline your productivity and stay organized with our powerful task management mobile app
 
 
