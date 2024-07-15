@@ -15,6 +15,25 @@ Streamline your productivity and stay organized with our powerful task managemen
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/polytechnic-acadmy.appspot.com/o/Screenshot%202024-07-15%20at%204.21.38%20PM.png?alt=media&token=cc504c18-cd7a-4622-8381-47be624934ea)
 
+<h3 align="center">I mostly use these Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.android.com/" target="_blank"> 
+    <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" alt="kotlin" width="40" height="40"/> 
+  </a>  
+  <a href="https://java.com/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> 
+  </a> 
+ 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
+
+
 
 ## Features
 
