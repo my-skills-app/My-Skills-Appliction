@@ -10,10 +10,29 @@ Streamline your productivity and stay organized with our powerful task managemen
 
 - [@vip_aryan_raj](https://www.instagram.com/vip_aryan_raj/)
 
+<h3 align="center">I mostly use these Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.android.com/" target="_blank"> 
+    <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" alt="kotlin" width="40" height="40"/> 
+  </a>  
+  <a href="https://java.com/" target="_blank"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> 
+  </a> 
+ 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
 ## Screenshots
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/polytechnic-acadmy.appspot.com/o/Screenshot%202024-07-15%20at%204.21.38%20PM.png?alt=media&token=cc504c18-cd7a-4622-8381-47be624934ea)
+
+
 
 
 ## Features
@@ -42,7 +61,7 @@ Streamline your productivity and stay organized with our powerful task managemen
 
 ## Acknowledgements
 
- - [Website (Mobile App)](https://myskillsapp4thsem.000webhostapp.com/)
+ - [Website (Mobile App)](https://my-skills-app.github.io/My-Skills-Website/)
  - [Devloper Profile](https://github.com/aryan6205012057)
  - [(Portfolio)](https://my-skills-app-bucket-1.s3.amazonaws.com/index.html)
 ## Contributing
@@ -63,7 +82,7 @@ To run this project, you will need to add the following environment variables to
 `Coustom Lib` `Firebase`
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ## Tech Stack
 
